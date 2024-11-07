@@ -11,7 +11,7 @@ parser.add_argument('definition_path', metavar='N', type=str, nargs='+',
                     help='directories containing definitions.')
 
 
-
+#
 def load_artifacts(paths):
     result = dict()
 
